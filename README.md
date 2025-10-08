@@ -63,13 +63,11 @@ Bias Predictor follows a **three-layer modular architecture**:
 
 ## Screenshots
 
-| Home Page | Market Predictions |
-|------------|--------------------|
-| ![Home](screenshots/home.png) | ![Predictions](screenshots/predictions.png) |
+| Market Predictions | Metrics | Contact |
+|------------|--------------------|---------|
+| ![Home](screenshots/Predictions.png) | ![Predictions](screenshots/Metrics.png) | ![Metrics](screenshots/Contact.png) 
 
-| Metrics | Disclaimer |
-|----------|-------------|
-| ![Metrics](screenshots/metrics.png) | ![Disclaimer](screenshots/disclaimer.png) |
+
 
 ---
 
