@@ -14,9 +14,9 @@ The system demonstrates how **modular AI pipelines** — combining model inferen
 
 ---
 
-## Demo
+## Source Code
 
-Live demo: Soon on App Store and Google PLay Store!
+- **Full backend + ML pipeline:** [ts-bias-predictor](https://github.com/katiapek/ts-bias-predictor)
 
 
 ---
